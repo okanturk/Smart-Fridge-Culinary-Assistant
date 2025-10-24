@@ -1,0 +1,75 @@
+
+{
+  "header": {
+    "title": "Mutfak Asistanı",
+    "recipes": "Tarifler",
+    "shoppingList": "Alışveriş Listesi"
+  },
+  "upload": {
+    "title": "Buzdolabında Ne Var?",
+    "description": "Buzdolabınızın bir fotoğrafını çekin, yapay zekamız hemen yapabileceğiniz lezzetli tarifler önersin.",
+    "prompt": "Yüklemek için tıklayın veya fotoğraf çekin",
+    "button": "Tarifleri Bul",
+    "previewAlt": "Buzdolabı önizlemesi"
+  },
+  "ingredientConfirmation": {
+    "title": "Tespit Edilen Malzemeler",
+    "description": "Yapay zekamız buzdolabınızda bunları buldu. Geri dönüp yeni bir fotoğraf deneyebilir veya tarif önerilerini görmek için devam edebilirsiniz.",
+    "continueButton": "Tarifleri Göster!",
+    "noIngredients": "Herhangi bir malzeme net olarak tespit edilemedi."
+  },
+  "filter": {
+    "title": "Diyet Filtreleri",
+    "options": {
+      "vegetarian": "Vejetaryen",
+      "vegan": "Vegan",
+      "glutenfree": "Glutensiz",
+      "keto": "Keto",
+      "dairyfree": "Sütsüz"
+    }
+  },
+  "recipeList": {
+    "title": "Önerilen Tarifler",
+    "notFound": {
+      "title": "Tarif Bulunamadı",
+      "description": "Görselinizden herhangi bir tarif oluşturamadık. Lütfen farklı bir tane deneyin."
+    }
+  },
+  "recipeCard": {
+    "difficulty": {
+      "label": "Zorluk",
+      "easy": "Kolay",
+      "medium": "Orta",
+      "hard": "Zor"
+    },
+    "prepTime": "Hazırlık Süresi",
+    "calories": "Kalori"
+  },
+  "cookingMode": {
+    "exit": "Çıkış",
+    "ingredients": "Malzemeler",
+    "missingIngredients": "Eksik Malzemeler",
+    "addToShoppingList": "Alışveriş Listesine Ekle",
+    "step": "ADIM {{current}} / {{total}}"
+  },
+  "shoppingList": {
+    "title": "Alışveriş Listesi",
+    "empty": "Alışveriş listeniz boş.",
+    "removeItem": "Öğeyi kaldır"
+  },
+  "spinner": {
+    "analyzing": "Malzemeleriniz analiz ediliyor...",
+    "subtext": "Yapay zeka şefimiz bazı fikirler hazırlıyor!"
+  },
+  "common": {
+    "startOver": "Baştan Başla",
+    "tryAgain": "Tekrar Dene",
+    "previous": "Önceki",
+    "next": "Sonraki"
+  },
+  "app": {
+    "error": {
+      "generateRecipes": "Tarifler oluşturulamadı. Lütfen farklı bir resim deneyin veya bağlantınızı kontrol edin."
+    }
+  }
+}

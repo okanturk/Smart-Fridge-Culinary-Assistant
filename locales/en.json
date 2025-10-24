@@ -1,0 +1,75 @@
+
+{
+  "header": {
+    "title": "Culinary Assistant",
+    "recipes": "Recipes",
+    "shoppingList": "Shopping List"
+  },
+  "upload": {
+    "title": "What's in Your Fridge?",
+    "description": "Snap a photo of your fridge, and our AI will suggest delicious recipes you can make right now.",
+    "prompt": "Click to upload or take a photo",
+    "button": "Find Recipes",
+    "previewAlt": "Fridge preview"
+  },
+  "ingredientConfirmation": {
+    "title": "Identified Ingredients",
+    "description": "Here's what our AI found in your fridge. You can go back and try a new photo, or continue to see your recipe suggestions.",
+    "continueButton": "Show Me The Recipes!",
+    "noIngredients": "We couldn't clearly identify any ingredients."
+  },
+  "filter": {
+    "title": "Dietary Filters",
+    "options": {
+      "vegetarian": "Vegetarian",
+      "vegan": "Vegan",
+      "glutenfree": "Gluten-Free",
+      "keto": "Keto",
+      "dairyfree": "Dairy-Free"
+    }
+  },
+  "recipeList": {
+    "title": "Suggested Recipes",
+    "notFound": {
+      "title": "No Recipes Found",
+      "description": "We couldn't generate any recipes from your image. Please try a different one."
+    }
+  },
+  "recipeCard": {
+    "difficulty": {
+      "label": "Difficulty",
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "prepTime": "Prep Time",
+    "calories": "Calories"
+  },
+  "cookingMode": {
+    "exit": "Exit",
+    "ingredients": "Ingredients",
+    "missingIngredients": "Missing Ingredients",
+    "addToShoppingList": "Add to Shopping List",
+    "step": "STEP {{current}} / {{total}}"
+  },
+  "shoppingList": {
+    "title": "Shopping List",
+    "empty": "Your shopping list is empty.",
+    "removeItem": "Remove item"
+  },
+  "spinner": {
+    "analyzing": "Analyzing your ingredients...",
+    "subtext": "Our AI chef is whipping up some ideas!"
+  },
+  "common": {
+    "startOver": "Start Over",
+    "tryAgain": "Try Again",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "app": {
+    "error": {
+      "generateRecipes": "Could not generate recipes. Please try a different image or check your connection."
+    }
+  }
+}
